@@ -21,6 +21,8 @@ Design created usint these sources:
 - Paragrafo naudojimas;
 - Nuorodų naudojimas;
 - img tag‘o šaltinis, alternatyvus turinys;
+- elementų atvaizdavimo būdai: display: block; display: inline; display: none;
+- priverstinis elementų nustūmimas horizontaliai: float: left; float: right;
 
 ## Authors
 
