@@ -6,11 +6,9 @@ HTML.
 
 Site published at: https://github.com/IevaSta/1-html-demo
 
-Design created usint these sources:
+Design created using this source:
 
-- https://i.pinimg.com/564x/44/76/15/447615ea9bde240ad9ef431433e8c3d7.jpg
-
-- https://cdn.dribbble.com/users/303363/screenshots/2314107/open-uri20151026-3-1xsprc2?compress=1&resize=800x600&vertical=top
+- https://i.pinimg.com/564x/38/c8/d8/38c8d8c196ef7214d78539372c391d67.jpg
 
 ## Project features
 
@@ -23,6 +21,7 @@ Design created usint these sources:
 - img tag‘o šaltinis, alternatyvus turinys;
 - elementų atvaizdavimo būdai: display: block; display: inline; display: none;
 - priverstinis elementų nustūmimas horizontaliai: float: left; float: right;
+- font-family;
 
 ## Authors
 
